@@ -9,10 +9,10 @@ Welcome to **War of Monkeys!** This is TwistedToast2's brand new game. This game
 ![alt text](https://img.shields.io/badge/Gurmehar-Put%20Button%20Here-blue)
 
 ## Controls:
-SPACE: Let go of obsticales
-E: latch onto obstacles
-LMB: Shoot banana blaster
-RMB: Aim banana blaster
+#### SPACE: Let go of obsticales
+#### E: latch onto obstacles
+#### LMB: Shoot banana blaster
+#### RMB: Aim banana blaster
 
 ## Gurmehar put something here
 
