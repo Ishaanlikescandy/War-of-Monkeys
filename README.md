@@ -7,4 +7,4 @@
 ![alt text](https://img.shields.io/badge/Gurmehar-Put%20Something%20Here-yellow)
 ![alt text](https://img.shields.io/badge/Gurmehar-Put%20Something%20Here-success)
 ![alt text](https://img.shields.io/badge/Gurmehar-Put%20Something%20Here-blue)
-![alt text](https://img.shields.io/badge/Gurmehar-Put%20Something%20Here-blue-violet)
+![alt text](https://img.shields.io/badge/Gurmehar-Put%20Something%20Here-blueviolet)
